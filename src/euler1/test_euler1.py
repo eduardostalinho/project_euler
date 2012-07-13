@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import unittest
-from problem1 import sum_of_multiples
+from euler1 import sum_of_multiples
 
 class TestSumOfMultiples(unittest.TestCase):
 
